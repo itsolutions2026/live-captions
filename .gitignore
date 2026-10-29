@@ -1,0 +1,15 @@
+# Captured transcripts (interview/call content — keep private)
+live_captions.txt
+live_captions.txt.tmp
+live_captions_recent.txt
+live_captions_background.txt
+
+# Extracted resume text / local docs
+*_extracted.txt
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
